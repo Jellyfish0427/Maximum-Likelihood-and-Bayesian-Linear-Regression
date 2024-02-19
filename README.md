@@ -1,4 +1,4 @@
-# Maximum-Likelihood-and-Bayesian-linear-regression
+# Maximum-Likelihood-and-Bayesian-Linear-Regression
 Apply the Maximum Likelihood (ML) and Bayesian linear regression methods to train a linear model in order to predict the calories burnt during exercise.
 
 ## Data
